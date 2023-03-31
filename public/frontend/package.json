@@ -30,7 +30,7 @@
     "gulp-sourcemaps": "^2.6.3",
     "inputmask": "^4.0.8",
     "ion-rangeslider": "^2.3.0",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "jquery-asColorPicker": "0.4.4",
     "jquery-bar-rating": "1.2.2",
     "jquery-contextmenu": "^2.8.0",
